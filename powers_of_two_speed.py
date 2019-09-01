@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import time
-from sympy import pi
 import os
 import math
 
